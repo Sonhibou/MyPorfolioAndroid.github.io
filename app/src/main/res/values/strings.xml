@@ -1,11 +1,3 @@
 <resources>
-    <string name="app_name">MyPorfolio</string>
-    <string name="pseudo">Neezy-</string>
-    <string name="craft">Craft</string>
-    <string name="bienvenu">Bienvenu sur mon site porfolio</string>
-    <string name="mon_nom">Serigne Sonhibou Séne</string>
-    <string name="salut">Salut ! je suis</string>
-    <string name="salut_Sonhibou">Serigne Sonhibou Séne</string>
-    <string name="formation">Formation</string>
-    <string name="competence">Compétences</string>
+    <string name="app_name">PorfolioAndroid</string>
 </resources>
