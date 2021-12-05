@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">PorfolioAndroid</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_AboutMe">A prpos de moi</string>
+    <string name="menu_formation">Formation</string>
+    <string name="menu_competence">Competence</string>
+    <string name="menu_projet">Projets</string>
+    <string name="menu_divers">Divers</string>
+    <string name="menu_contact">Contact</string>
+
 </resources>
