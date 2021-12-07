@@ -1,16 +1,16 @@
-package com.example.porfolioandroid.ui.home;
+package com.example.porfolioandroid.ui.contact;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class HomeViewModel extends ViewModel {
-
+public class FragmentContactViewModel extends ViewModel {
+    // TODO: Implement the ViewModel
     private MutableLiveData<String> mText;
 
-    public HomeViewModel() {
+    public FragmentContactViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("Craft");
+
     }
 
     public LiveData<String> getText() {

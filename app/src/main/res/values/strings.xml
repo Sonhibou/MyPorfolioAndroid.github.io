@@ -13,5 +13,13 @@
     <string name="menu_projet">Projets</string>
     <string name="menu_divers">Divers</string>
     <string name="menu_contact">Contact</string>
-
+    <string name="name">Serigne Sonhibou Sene</string>
+    <string name="pseudo">Neezy-</string>
+    <string name="pseudo2">Craft</string>
+    <string name="welcome">Bienvenu sur mon page</string>
+    <string name="propos">Je m\'appelle Serigne Sonhibou Sene, J\'ai 24 et je suis informatien et apprenant à Simplon. Depuis mon enfance, j\ai été toujours passionné à la technologie et au bricolage,Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, eveniet?, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, eveniet?, Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, eveniet?. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, eveniet?
+    </string>
+    <string name="lorem">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor non nam veniam debitis id nisi excepturi in. Blanditiis hic illum ducimus earum a id laudantium quod. Earum quis quibusdam ad?</string>
+    <string name="comprehension">Dans la compréhension de vos besoin à la conception d\'un plan directeur et à la livraison du produit final, je fais ce qui se situent entre ces lignes.</string>
+    <string name="lorem10"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, eveniet?</string>
 </resources>

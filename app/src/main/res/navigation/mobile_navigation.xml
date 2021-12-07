@@ -22,4 +22,9 @@
         android:name="com.example.porfolioandroid.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_competence"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_contact"
+        android:name="com.example.porfolioandroid.ui.contact.fragment_contact"
+        android:label="@string/menu_contact"
+        tools:layout="@layout/fragment_contact" />
 </navigation>
